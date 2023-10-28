@@ -48,7 +48,5 @@ social:
 highlight_name: true
 ---
 
-I'm a research assistant  in the [Computer Vision](https://mbzuai.ac.ae/research/department/computer-vision-department/) department at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi. Some of my research interests are multimodal learning, efficient neural architectures, explainability, and sustainability.
-
-At MBZUAI, my projects have touched upon llms, object detection, recognition, and federated learning. I completed my MSc at MBZUAI under the supervision of Dr. Hisham Cholakkal. Prior to that, I earned a bachelor's degree in Computer Science Engineering from Sapienza Università di Roma in Italy.
+I'm a research assistant  in the [Computer Vision](https://mbzuai.ac.ae/research/department/computer-vision-department/) department at [MBZUAI](https://mbzuai.ac.ae/) under the supervision of [Dr. Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en&oi=ao). Some of my research interests include multimodal learning, efficient architectures, federated learning, explainability, and sustainability. I completed my MSc at MBZUAI. Prior to that, I earned a bachelor's degree in Computer Science Engineering from Sapienza Università di Roma in Italy.
 {style="text-align: justify; font-size: 0.8em;"}
