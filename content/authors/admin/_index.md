@@ -35,7 +35,7 @@ social:
     link: https://github.com/sarapieri
   - icon: linkedin
     icon_pack: wc
-    link: www.linkedin.com/in/sarapieri
+    link: https://www.linkedin.com/in/sarapieri/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     icon_pack: wc
