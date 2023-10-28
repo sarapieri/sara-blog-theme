@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Sara Pieri
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sara
+last_name: Pieri
 
 # Status emoji
 status:
@@ -17,32 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+    url: https://mbzuai.ac.ae/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision , mobile computing and programmable matter.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
     icon_pack: wc
-    link: 'mailto:your-email@example.com'
-  - icon: twitter
-    icon_pack: wc
-    link: https://twitter.com/wowchemy
-    label: Follow me on Twitter
+    link: 'mailto:sara.pieri@mbzuai.ac.ae'
   - icon: github
     icon_pack: wc
-    link: https://github.com/gcushen
+    link: https://github.com/sarapieri
   - icon: linkedin
     icon_pack: wc
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/sarapieri
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     icon_pack: wc
